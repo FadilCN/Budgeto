@@ -80,7 +80,7 @@ npm start
 
 ### Exception Handling
 - Improve error handling and data validation when fetching from the API.  
-- Ensure the frontend checks if data is available before rendering; if not, show a proper fallback (e.g., loading state, error message, or default values) instead of breaking. This ensures forntend loads even if data is not presnt on backend.
+- Ensure the frontend checks if data is available before rendering; if not, show a proper fallback (e.g., loading state, error message, or default values) instead of breaking. This ensures frontend loads even if data is not present on backend.
 ---
 
 ## Quick Troubleshooting
