@@ -79,8 +79,8 @@ npm start
 - **To do:** Create a new custom query + DTO for year-wise aggregation on the backend, and connect it to the frontend for correct yearly sales reporting.
 
 ### Exception Handling
- Improve error handling and data validation when fetching from the API.  
-  Ensure the frontend checks if data is available before rendering; if not, show a proper fallback (e.g., loading state, error message, or default values) instead of breaking. This ensures forntend loads even if data is not presnt on backend.
+- Improve error handling and data validation when fetching from the API.  
+- Ensure the frontend checks if data is available before rendering; if not, show a proper fallback (e.g., loading state, error message, or default values) instead of breaking. This ensures forntend loads even if data is not presnt on backend.
 ---
 
 ## Quick Troubleshooting
